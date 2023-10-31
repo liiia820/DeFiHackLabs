@@ -35,7 +35,6 @@ All articles are also published on [Substack](https://defihacklabs.substack.com/
 ## List of Past DeFi Incidents
 
 [20231028 AstridProtocol](#20231028-AstridProtocol---business-logic-flaw)
-
 [20231024 MaestroRouter2](#20231024-maestrorouter2---arbitrary-external-call)
 
 [20231022 OpenLeverage](#20231022-openleverage---business-logic-flaw)
